@@ -1,0 +1,242 @@
+id,likes,replies,retweets,text,timestamp,url,img_url
+892802102702911488,1,0,1,,2017-08-02T17:39:43,https://twitter.com/chrisalbon/status/892802102702911488,https://pbs.twimg.com/media/DGPcXPAVwAAfbqV.jpg
+961698946698567680,5,0,0,Threshold Activation,2018-02-08T20:31:11,https://twitter.com/chrisalbon/status/961698946698567680,https://pbs.twimg.com/media/DVikGEhUQAAIkzD.png
+961666291189743616,23,0,5,Chi-Squared,2018-02-08T18:21:25,https://twitter.com/chrisalbon/status/961666291189743616,https://pbs.twimg.com/media/DViGZR3VoAAAoNf.png
+961337263299821568,28,1,4,MinMax Scaling,2018-02-07T20:33:59,https://twitter.com/chrisalbon/status/961337263299821568,https://pbs.twimg.com/media/DVdbJVIU0AEQcMg.png
+961302907969654784,22,0,2,Probability Density Function,2018-02-07T18:17:28,https://twitter.com/chrisalbon/status/961302907969654784,https://pbs.twimg.com/media/DVc75mvU8AA23En.png
+960977759915851776,6,2,1,Alpha In Ridge Regression,2018-02-06T20:45:26,https://twitter.com/chrisalbon/status/960977759915851776,https://pbs.twimg.com/media/DVYULevV4AAGJCd.png
+960949706053468160,3,0,0,Greek Letters 3,2018-02-06T18:53:58,https://twitter.com/chrisalbon/status/960949706053468160,https://pbs.twimg.com/media/DVX6qiMU8AAlr2V.png
+960604174969745408,16,0,3,Variance Inflation Factor,2018-02-05T20:00:57,https://twitter.com/chrisalbon/status/960604174969745408,https://pbs.twimg.com/media/DVTAZ-PUQAAI3mS.png
+960573424891412480,23,0,1,Variance,2018-02-05T17:58:45,https://twitter.com/chrisalbon/status/960573424891412480,https://pbs.twimg.com/media/DVSkcGRV4AA6Ao1.png
+929082386708537344,9,4,3,Concave And Convex Functions,2017-11-10T20:24:37,https://twitter.com/chrisalbon/status/929082386708537344,https://pbs.twimg.com/media/DOTDgWpVoAEzdLk.png
+929046571974402048,14,0,3,Fowlkes-Mallows,2017-11-10T18:02:18,https://twitter.com/chrisalbon/status/929046571974402048,https://pbs.twimg.com/media/DOSi7taVAAEgI8K.png
+928727962467188736,7,1,2,Weight Decay,2017-11-09T20:56:15,https://twitter.com/chrisalbon/status/928727962467188736,https://pbs.twimg.com/media/DOOBKNHUIAA_4vN.png
+928697060156571648,19,0,2,Boosting,2017-11-09T18:53:28,https://twitter.com/chrisalbon/status/928697060156571648,https://pbs.twimg.com/media/DONlDd8UMAANvVU.png
+928360091706724352,29,3,9,The Random In Random Forest,2017-11-08T20:34:28,https://twitter.com/chrisalbon/status/928360091706724352,https://pbs.twimg.com/media/DOIylTqUIAAiQIn.png
+928333068649209856,11,1,1,Minkowski Distance,2017-11-08T18:47:05,https://twitter.com/chrisalbon/status/928333068649209856,https://pbs.twimg.com/media/DOIaAX_VwAAM5zm.png
+926497037171826688,11,1,1,One-Sided Label Smoothing,2017-11-03T17:11:21,https://twitter.com/chrisalbon/status/926497037171826688,https://pbs.twimg.com/media/DNuUJQjVAAAagPT.png
+925447805883236352,8,1,1,Normalizing Observations,2017-10-31T19:42:05,https://twitter.com/chrisalbon/status/925447805883236352,https://pbs.twimg.com/media/DNfZ3-aUMAAOLpM.png
+925081293943029760,22,1,6,Interaction Term,2017-10-30T19:25:42,https://twitter.com/chrisalbon/status/925081293943029760,https://pbs.twimg.com/media/DNaMiH3VAAAWYhJ.png
+925047041041907712,22,0,2,Neuron,2017-10-30T17:09:35,https://twitter.com/chrisalbon/status/925047041041907712,https://pbs.twimg.com/media/DNZtYVfU8AA5LsE.png
+923999537823326209,6,0,4,Standard Error Of The Mean,2017-10-27T19:47:11,https://twitter.com/chrisalbon/status/923999537823326209,https://pbs.twimg.com/media/DNK0rnMU8AAiwmx.png
+923960022358355969,13,2,2,Handling Outliers,2017-10-27T17:10:10,https://twitter.com/chrisalbon/status/923960022358355969,https://pbs.twimg.com/media/DNKQvk6VAAAoKBK.png
+923631790920568832,99,4,43,Simpsons Paradox,2017-10-26T19:25:53,https://twitter.com/chrisalbon/status/923631790920568832,https://pbs.twimg.com/media/DNFmN-LVQAAufeo.png
+923604668269322240,15,0,3,How To Choose Hidden Unit Activation Functions,2017-10-26T17:38:07,https://twitter.com/chrisalbon/status/923604668269322240,https://pbs.twimg.com/media/DNFNjOwVAAAq5WX.png
+922912950578331648,15,2,3,Support Vectors,2017-10-24T19:49:28,https://twitter.com/chrisalbon/status/922912950578331648,https://pbs.twimg.com/media/DM7Yb-zV4AAFhRh.png
+922881559920857088,24,6,5,Does-k-NN-Learn,2017-10-24T17:44:44,https://twitter.com/chrisalbon/status/922881559920857088,https://pbs.twimg.com/media/DM674zJX4AAqJ6j.png
+959521955081732096,15,0,0,Interpolation,2018-02-02T20:20:35,https://twitter.com/chrisalbon/status/959521955081732096,https://pbs.twimg.com/media/DVDoIfPUQAAPY3e.png
+959492972906659842,7,0,2,Stationary Points,2018-02-02T18:25:25,https://twitter.com/chrisalbon/status/959492972906659842,https://pbs.twimg.com/media/DVDNxiCVQAI0wrZ.png
+959161358141935616,9,0,0,Training Error Rate,2018-02-01T20:27:42,https://twitter.com/chrisalbon/status/959161358141935616,https://pbs.twimg.com/media/DU-gK_WUMAA94tb.png
+959132267338608640,17,0,1,Frobenius Norm,2018-02-01T18:32:07,https://twitter.com/chrisalbon/status/959132267338608640,https://pbs.twimg.com/media/DU-FtrzVwAAoXgU.png
+958791152630620160,9,1,1,Stationary Points,2018-01-31T19:56:38,https://twitter.com/chrisalbon/status/958791152630620160,https://pbs.twimg.com/media/DU5PeK-U8AAvq-b.png
+958768278532272128,12,0,2,Cp,2018-01-31T18:25:45,https://twitter.com/chrisalbon/status/958768278532272128,https://pbs.twimg.com/media/DU46qvWUMAAQLwC.png
+958430479148974080,10,0,0,Training And Test Error,2018-01-30T20:03:27,https://twitter.com/chrisalbon/status/958430479148974080,https://pbs.twimg.com/media/DU0HcPYV4AAXdf-.png
+958404467262554112,16,0,1,Early Stopping,2018-01-30T18:20:05,https://twitter.com/chrisalbon/status/958404467262554112,https://pbs.twimg.com/media/DUzvyHxVwAAmINd.png
+958078716764024832,15,0,0,Conditional Probability,2018-01-29T20:45:40,https://twitter.com/chrisalbon/status/958078716764024832,https://pbs.twimg.com/media/DUvHg8BVMAAycEH.png
+958044986892668928,19,0,1,DBSCAN,2018-01-29T18:31:39,https://twitter.com/chrisalbon/status/958044986892668928,https://pbs.twimg.com/media/DUuo1ovU0AA_j85.png
+956987801353863168,14,0,3,Dot Product,2018-01-26T20:30:46,https://twitter.com/chrisalbon/status/956987801353863168,https://pbs.twimg.com/media/DUfnVV_V4AACYtQ.png
+956954985396187136,29,1,6,Dataset Augmentation,2018-01-26T18:20:22,https://twitter.com/chrisalbon/status/956954985396187136,https://pbs.twimg.com/media/DUfJfLgU0AAIFUk.png
+956618553108525056,8,1,1,Notation 5,2018-01-25T20:03:30,https://twitter.com/chrisalbon/status/956618553108525056,https://pbs.twimg.com/media/DUaXgQKV4AAVkPh.png
+956595176662712320,43,0,11,Logistic Regression Vs Linear Regression,2018-01-25T18:30:37,https://twitter.com/chrisalbon/status/956595176662712320,https://pbs.twimg.com/media/DUaCPiMUMAAZ7-6.png
+956268318150639616,5,1,0,Power Rule,2018-01-24T20:51:48,https://twitter.com/chrisalbon/status/956268318150639616,https://pbs.twimg.com/media/DUVY92gVAAAfRb3.png
+956227427985907712,13,0,3,Learning Curve,2018-01-24T18:09:19,https://twitter.com/chrisalbon/status/956227427985907712,https://pbs.twimg.com/media/DUUzxxkUMAAy-Ka.png
+955900301625536512,13,1,2,Conditioning,2018-01-23T20:29:26,https://twitter.com/chrisalbon/status/955900301625536512,https://pbs.twimg.com/media/DUQKQgGVAAACgkK.png
+955868481043353600,19,2,3,Normal Distribution,2018-01-23T18:22:59,https://twitter.com/chrisalbon/status/955868481043353600,https://pbs.twimg.com/media/DUPtUShVAAAyrpB.png
+955534830715809792,2,0,2,Decision Boundary,2018-01-22T20:17:11,https://twitter.com/chrisalbon/status/955534830715809792,https://pbs.twimg.com/media/DUK93SbVoAAMjTD.png
+955508601128288256,13,0,0,Epoch,2018-01-22T18:32:57,https://twitter.com/chrisalbon/status/955508601128288256,https://pbs.twimg.com/media/DUKmAkYV4AAmMn7.png
+954452830911283200,7,0,3,Forward Stepwise Selection,2018-01-19T20:37:42,https://twitter.com/chrisalbon/status/954452830911283200,https://pbs.twimg.com/media/DT7lypVV4AAVw0j.png
+954414328735703040,20,1,1,Chi-Squared,2018-01-19T18:04:42,https://twitter.com/chrisalbon/status/954414328735703040,https://pbs.twimg.com/media/DT7CxhTUQAAZYBV.png
+954089824872316928,18,0,5,Dataset Augmentation,2018-01-18T20:35:15,https://twitter.com/chrisalbon/status/954089824872316928,https://pbs.twimg.com/media/DT2bo6VUMAA8ZEV.png
+954051458151759872,47,8,13,Imputing Missing Values,2018-01-18T18:02:47,https://twitter.com/chrisalbon/status/954051458151759872,https://pbs.twimg.com/media/DT14vrjVQAAFyZ_.png
+953719150920126464,11,0,1,Learning Curve,2018-01-17T20:02:19,https://twitter.com/chrisalbon/status/953719150920126464,https://pbs.twimg.com/media/DTxKg1oVoAAZS2v.png
+953688893290786816,5,0,0,The Effect Of Dropout On Hidden Units,2018-01-17T18:02:05,https://twitter.com/chrisalbon/status/953688893290786816,https://pbs.twimg.com/media/DTwu_iuU0AUxYnr.png
+953368961717907456,18,0,4,Missing Not At Random,2018-01-16T20:50:47,https://twitter.com/chrisalbon/status/953368961717907456,https://pbs.twimg.com/media/DTsMBIaV4AAgr4m.png
+953329051665494016,13,0,3,Aggomerative Clustering,2018-01-16T18:12:12,https://twitter.com/chrisalbon/status/953329051665494016,https://pbs.twimg.com/media/DTrnuA6VoAAmwi4.png
+953006565539250176,11,1,1,False Positive Rate,2018-01-15T20:50:45,https://twitter.com/chrisalbon/status/953006565539250176,https://pbs.twimg.com/media/DTnCa4hVwAAptYw.png
+952965475683594240,19,0,1,Log-Sum-Exp,2018-01-15T18:07:29,https://twitter.com/chrisalbon/status/952965475683594240,https://pbs.twimg.com/media/DTmdDLuVMAA1XyB.png
+936697688376033280,16,2,2,Saturation,2017-12-01T20:45:06,https://twitter.com/chrisalbon/status/936697688376033280,https://pbs.twimg.com/media/DP_RlUAUQAAMcqF.png
+936656787658248193,8,1,2,T-Statistic,2017-12-01T18:02:35,https://twitter.com/chrisalbon/status/936656787658248193,https://pbs.twimg.com/media/DP-sYj6UMAAK98A.png
+936336475754414080,16,0,2,Notation 1,2017-11-30T20:49:46,https://twitter.com/chrisalbon/status/936336475754414080,https://pbs.twimg.com/media/DP6JD-AUIAAh7OD.png
+936297366340100096,19,3,3,Hyperparameter Tuning,2017-11-30T18:14:22,https://twitter.com/chrisalbon/status/936297366340100096,https://pbs.twimg.com/media/DP5lfeVV4AAv9O0.png
+935976282201899008,8,1,1,Support Vectors,2017-11-29T20:58:29,https://twitter.com/chrisalbon/status/935976282201899008,https://pbs.twimg.com/media/DP1Bd7aU8AAzJjn.png
+935942799983198210,5,0,0,C,2017-11-29T18:45:27,https://twitter.com/chrisalbon/status/935942799983198210,https://pbs.twimg.com/media/DP0jBBQVQAA6zFb.png
+935601253517684736,6,0,0,Capacity,2017-11-28T20:08:16,https://twitter.com/chrisalbon/status/935601253517684736,https://pbs.twimg.com/media/DPvsYaNVQAA-iEB.png
+935574981227847680,9,1,2,Model Complexity,2017-11-28T18:23:52,https://twitter.com/chrisalbon/status/935574981227847680,https://pbs.twimg.com/media/DPvUfKlVwAAdJ4c.png
+935242918968750080,18,1,3,Normal Distribution,2017-11-27T20:24:22,https://twitter.com/chrisalbon/status/935242918968750080,https://pbs.twimg.com/media/DPqmeivUMAAF1Ju.png
+935208023353475072,21,1,1,Gradient Descent,2017-11-27T18:05:42,https://twitter.com/chrisalbon/status/935208023353475072,https://pbs.twimg.com/media/DPqGvXbUQAIAf-3.png
+934158088193564672,23,0,3,Confusion Matrix,2017-11-24T20:33:38,https://twitter.com/chrisalbon/status/934158088193564672,https://pbs.twimg.com/media/DPbL1ErU8AEtFqk.png
+934120130098823168,27,0,7,The Effect Of Model Complexity On Training And Test Error,2017-11-24T18:02:48,https://twitter.com/chrisalbon/status/934120130098823168,https://pbs.twimg.com/media/DPapTsIUIAEGNZ6.png
+933800115411628032,65,4,18,Big O,2017-11-23T20:51:11,https://twitter.com/chrisalbon/status/933800115411628032,https://pbs.twimg.com/media/DPWGQX6VwAAVguz.png
+933771226627039232,17,0,0,Slack Variable In Soft-Margin SVM,2017-11-23T18:56:23,https://twitter.com/chrisalbon/status/933771226627039232,https://pbs.twimg.com/media/DPVr-z3VoAAO9zp.png
+933438872616255488,15,3,0,Notation 5,2017-11-22T20:55:44,https://twitter.com/chrisalbon/status/933438872616255488,https://pbs.twimg.com/media/DPQ9tSNU8AAz6in.png
+933409391738359808,10,0,0,Threshold Activation,2017-11-22T18:58:35,https://twitter.com/chrisalbon/status/933409391738359808,https://pbs.twimg.com/media/DPQi5RBUMAAq-HT.png
+933073054107709440,42,3,14,Matthews Correlation Coefficient,2017-11-21T20:42:06,https://twitter.com/chrisalbon/status/933073054107709440,https://pbs.twimg.com/media/DPLw_1KVAAAtRZB.png
+933047017613418497,27,0,6,Avoid Overfitting,2017-11-21T18:58:38,https://twitter.com/chrisalbon/status/933047017613418497,https://pbs.twimg.com/media/DPLZUSnUEAEev_1.png
+932713092592517120,21,0,3,BackProp,2017-11-20T20:51:44,https://twitter.com/chrisalbon/status/932713092592517120,https://pbs.twimg.com/media/DPGpnSzVoAEK9oh.png
+932669954901516288,15,1,1,Support Vectors,2017-11-20T18:00:20,https://twitter.com/chrisalbon/status/932669954901516288,https://pbs.twimg.com/media/DPGCYXdVwAApaYd.png
+931624419536932864,11,0,1,One-Vs-Rest Logistic Regression,2017-11-17T20:45:45,https://twitter.com/chrisalbon/status/931624419536932864,https://pbs.twimg.com/media/DO3LeNUVoAA_mOc.png
+931594019292962816,12,1,2,Noisy ReLU,2017-11-17T18:44:57,https://twitter.com/chrisalbon/status/931594019292962816,https://pbs.twimg.com/media/DO2v0rcVwAETTSn.png
+931259153418350592,4,0,0,Early Stopping Advantages,2017-11-16T20:34:18,https://twitter.com/chrisalbon/status/931259153418350592,https://pbs.twimg.com/media/DOx_Q46U8AAgp0V.png
+931230503226695680,12,2,1,Derivative,2017-11-16T18:40:28,https://twitter.com/chrisalbon/status/931230503226695680,https://pbs.twimg.com/media/DOxlNP0V4AAsTsw.png
+930901482966196224,10,0,1,Regression,2017-11-15T20:53:03,https://twitter.com/chrisalbon/status/930901482966196224,https://pbs.twimg.com/media/DOs59u9VQAAXMPc.png
+930864859469582341,22,2,5,Greedy Algorithms,2017-11-15T18:27:31,https://twitter.com/chrisalbon/status/930864859469582341,https://pbs.twimg.com/media/DOsYp8wU8AAPWpZ.png
+930538885834088449,22,1,9,R-Squared,2017-11-14T20:52:13,https://twitter.com/chrisalbon/status/930538885834088449,https://pbs.twimg.com/media/DOnwL0vUEAAvOZQ.png
+930510568057749504,39,0,11,Tensors,2017-11-14T18:59:42,https://twitter.com/chrisalbon/status/930510568057749504,https://pbs.twimg.com/media/DOnWbeZVoAAfM-Q.png
+930450506744414208,52,3,0,,2017-11-14T15:01:02,https://twitter.com/chrisalbon/status/930450506744414208,
+930176717745876992,12,0,1,Early Stopping Advantages,2017-11-13T20:53:06,https://twitter.com/chrisalbon/status/930176717745876992,https://pbs.twimg.com/media/DOimy4mUIAAe3uW.png
+930137296338161664,14,0,2,AIC,2017-11-13T18:16:27,https://twitter.com/chrisalbon/status/930137296338161664,https://pbs.twimg.com/media/DOiC8QjUMAEFFek.png
+921461122858811392,17,1,4,Chi-Squared,2017-10-20T19:40:26,https://twitter.com/chrisalbon/status/921461122858811392,https://pbs.twimg.com/media/DMmwAehVwAAyblf.png
+921423658911899649,18,3,4,Motivation For Deep Layers,2017-10-20T17:11:34,https://twitter.com/chrisalbon/status/921423658911899649,https://pbs.twimg.com/media/DMmN70SUEAEaPi7.png
+921091161774854144,1,0,3,Forward Stepwise Selection,2017-10-19T19:10:20,https://twitter.com/chrisalbon/status/921091161774854144,https://pbs.twimg.com/media/DMhfh47XkAAXzEu.png
+921064299732156416,6,2,2,Model Identifiability,2017-10-19T17:23:36,https://twitter.com/chrisalbon/status/921064299732156416,https://pbs.twimg.com/media/DMhHGVMUMAA_6Lv.png
+920737940153577472,21,1,1,Standard Deviation,2017-10-18T19:46:46,https://twitter.com/chrisalbon/status/920737940153577472,https://pbs.twimg.com/media/DMceRssVAAAktFw.png
+920701433531351041,11,0,4,Cross-Entropy,2017-10-18T17:21:42,https://twitter.com/chrisalbon/status/920701433531351041,https://pbs.twimg.com/media/DMb9EueU8AAD6Ix.png
+920370100594647040,7,0,0,Initializing Weights In Feedforward Neural Networks,2017-10-17T19:25:06,https://twitter.com/chrisalbon/status/920370100594647040,https://pbs.twimg.com/media/DMXPunbVAAA5CVf.png
+920347074771611648,10,1,2,Therefore And Because Notation,2017-10-17T17:53:36,https://twitter.com/chrisalbon/status/920347074771611648,https://pbs.twimg.com/media/DMW6yTRVwAAwAf2.png
+920014277561348100,20,0,2,Decision Tree Regression,2017-10-16T19:51:11,https://twitter.com/chrisalbon/status/920014277561348100,https://pbs.twimg.com/media/DMSMG_KVwAAxDCg.png
+919974317944799233,8,4,1,Greek Letters 1,2017-10-16T17:12:24,https://twitter.com/chrisalbon/status/919974317944799233,https://pbs.twimg.com/media/DMRnxCTVwAAlUGq.png
+918926606483169280,11,1,2,AdaBoost,2017-10-13T19:49:10,https://twitter.com/chrisalbon/status/918926606483169280,https://pbs.twimg.com/media/DMCu4KnUQAAbEtu.png
+918887767089717248,16,0,0,Missing At Random,2017-10-13T17:14:50,https://twitter.com/chrisalbon/status/918887767089717248,https://pbs.twimg.com/media/DMCLjdgVQAA-TXR.png
+918560550870597632,9,1,3,Curse Of Dimensionality,2017-10-12T19:34:36,https://twitter.com/chrisalbon/status/918560550870597632,https://pbs.twimg.com/media/DL9h88wV4AAIOGg.png
+918526397403955200,12,3,2,Power Rule,2017-10-12T17:18:53,https://twitter.com/chrisalbon/status/918526397403955200,https://pbs.twimg.com/media/DL9C4-pVAAAK7ut.png
+918199341419937797,14,0,0,Downsampling,2017-10-11T19:39:16,https://twitter.com/chrisalbon/status/918199341419937797,https://pbs.twimg.com/media/DL4ZbzDUEAEntRZ.png
+918160636823007233,7,1,3,The Effect Of Model Complexity On Training And Test Error,2017-10-11T17:05:29,https://twitter.com/chrisalbon/status/918160636823007233,https://pbs.twimg.com/media/DL32O6SV4AAuxm-.png
+917838550522933248,36,0,9,Handling Imbalanced Classes In Support Vector Machines,2017-10-10T19:45:37,https://twitter.com/chrisalbon/status/917838550522933248,https://pbs.twimg.com/media/DLzRS-bVwAIpr3E.png
+917799270215860224,14,1,5,Supervised Vs Unsupervised,2017-10-10T17:09:32,https://twitter.com/chrisalbon/status/917799270215860224,https://pbs.twimg.com/media/DLytknLVoAE02Ep.png
+917475826198708231,7,0,0,Linear Combination,2017-10-09T19:44:17,https://twitter.com/chrisalbon/status/917475826198708231,https://pbs.twimg.com/media/DLuHZriVAAACf4I.png
+917441760162234368,8,2,1,Matrix Inverse,2017-10-09T17:28:55,https://twitter.com/chrisalbon/status/917441760162234368,https://pbs.twimg.com/media/DLtoaxaVAAEaOkY.png
+916378450021122048,16,0,5,Silhouette Coefficients,2017-10-06T19:03:42,https://twitter.com/chrisalbon/status/916378450021122048,https://pbs.twimg.com/media/DLehV_dUEAAQ8fT.png
+916347886299840513,16,2,2,Ensemble Methods,2017-10-06T17:02:15,https://twitter.com/chrisalbon/status/916347886299840513,https://pbs.twimg.com/media/DLeFi8pVwAAx1CI.png
+916029102737440768,6,0,0,Saturation Of The Loss Function,2017-10-05T19:55:31,https://twitter.com/chrisalbon/status/916029102737440768,https://pbs.twimg.com/media/DLZjnPDUQAAy5ms.png
+915995727385333760,16,0,2,Perceptron Learning,2017-10-05T17:42:54,https://twitter.com/chrisalbon/status/915995727385333760,https://pbs.twimg.com/media/DLZFQmUVoAApMnK.png
+915656010345226240,12,0,2,Bias,2017-10-04T19:12:59,https://twitter.com/chrisalbon/status/915656010345226240,https://pbs.twimg.com/media/DLUQSeaUMAAmtXd.png
+915634485537808384,12,0,1,Sensitivity,2017-10-04T17:47:27,https://twitter.com/chrisalbon/status/915634485537808384,https://pbs.twimg.com/media/DLT8tc9U8AMRbOE.png
+915292161976950784,23,1,5,Notions Of Probability,2017-10-03T19:07:11,https://twitter.com/chrisalbon/status/915292161976950784,https://pbs.twimg.com/media/DLPFXsOU8AAeKuP.png
+915271933146537984,2,1,0,Notation 1,2017-10-03T17:46:48,https://twitter.com/chrisalbon/status/915271933146537984,https://pbs.twimg.com/media/DLOy-NFUMAA7ugf.png
+914942095055396864,7,0,1,Frobenius Norm,2017-10-02T19:56:08,https://twitter.com/chrisalbon/status/914942095055396864,https://pbs.twimg.com/media/DLKG_GyV4AAra4T.png
+914903528572829696,19,1,2,Alpha In Ridge Regression,2017-10-02T17:22:53,https://twitter.com/chrisalbon/status/914903528572829696,https://pbs.twimg.com/media/DLJj6QVU8AE-wT3.png
+913844569233428480,17,1,5,Dataset Augmentation,2017-09-29T19:14:58,https://twitter.com/chrisalbon/status/913844569233428480,https://pbs.twimg.com/media/DK6gyrhVwAAZ3dA.png
+913821155831668737,9,2,3,Random Variable,2017-09-29T17:41:56,https://twitter.com/chrisalbon/status/913821155831668737,https://pbs.twimg.com/media/DK6Lf4hV4AExjDl.png
+913483615530389504,12,0,8,Boosting,2017-09-28T19:20:40,https://twitter.com/chrisalbon/status/913483615530389504,https://pbs.twimg.com/media/DK1Ygb4UEAACjVm.png
+913449230898937856,14,1,3,Odds Ratio,2017-09-28T17:04:02,https://twitter.com/chrisalbon/status/913449230898937856,https://pbs.twimg.com/media/DK05O-dUQAALxhA.png
+913118916146163712,8,0,6,K-Nearest Neighbors Tips And Tricks,2017-09-27T19:11:29,https://twitter.com/chrisalbon/status/913118916146163712,https://pbs.twimg.com/media/DKwM0ICVYAAL7rq.png
+913097801860505600,15,0,2,Finding Linear Regression Parameters,2017-09-27T17:47:35,https://twitter.com/chrisalbon/status/913097801860505600,https://pbs.twimg.com/media/DKv5nH5UEAAOMgS.png
+912765904563322880,10,2,2,Conditioning,2017-09-26T19:48:44,https://twitter.com/chrisalbon/status/912765904563322880,https://pbs.twimg.com/media/DKrLwG3UQAA-DUu.png
+912728612356317184,21,0,6,Adjusted R-Squared,2017-09-26T17:20:33,https://twitter.com/chrisalbon/status/912728612356317184,https://pbs.twimg.com/media/DKqp1dyUIAAwOuv.png
+912392083779891200,8,0,3,Matrices,2017-09-25T19:03:18,https://twitter.com/chrisalbon/status/912392083779891200,https://pbs.twimg.com/media/DKl3w7eVAAAjVfO.png
+912367044556840960,14,0,3,Hidden Layer,2017-09-25T17:23:49,https://twitter.com/chrisalbon/status/912367044556840960,https://pbs.twimg.com/media/DKlg_cKVAAEuflk.png
+912151106376962048,2,0,1,#machinelearningflashcards,2017-09-25T03:05:45,https://twitter.com/chrisalbon/status/912151106376962048,https://pbs.twimg.com/media/DKdXIayUMAErbrz.jpg
+911307172683816960,19,0,7,Imputation Using k-NN,2017-09-22T19:12:15,https://twitter.com/chrisalbon/status/911307172683816960,https://pbs.twimg.com/media/DKWdCyAUEAAihy5.png
+911274516856180736,12,0,2,Principal Components,2017-09-22T17:02:30,https://twitter.com/chrisalbon/status/911274516856180736,https://pbs.twimg.com/media/DKV_V6jU8AE_yZH.png
+910950725907136512,12,1,1,Underflow,2017-09-21T19:35:52,https://twitter.com/chrisalbon/status/910950725907136512,https://pbs.twimg.com/media/DKRY23YUQAAYwDT.png
+910916721858322432,2,0,1,Vanishing Gradient Problem,2017-09-21T17:20:45,https://twitter.com/chrisalbon/status/910916721858322432,https://pbs.twimg.com/media/DKQ57jkV4AA2wam.png
+910591084731830274,13,0,3,AdaBoost,2017-09-20T19:46:47,https://twitter.com/chrisalbon/status/910591084731830274,https://pbs.twimg.com/media/DKMRw9GUEAANeUH.png
+910557607986741248,6,0,3,C,2017-09-20T17:33:45,https://twitter.com/chrisalbon/status/910557607986741248,https://pbs.twimg.com/media/DKLzUZ2UQAAkvdi.png
+910223481165406208,27,1,2,Jacobian Matrix,2017-09-19T19:26:03,https://twitter.com/chrisalbon/status/910223481165406208,https://pbs.twimg.com/media/DKHDbpUU8AAK2sM.png
+910191754552393728,14,2,5,ElasticNet,2017-09-19T17:19:59,https://twitter.com/chrisalbon/status/910191754552393728,https://pbs.twimg.com/media/DKGmk6rUMAATU0l.png
+909864637448912899,5,2,1,Square Root,2017-09-18T19:40:08,https://twitter.com/chrisalbon/status/909864637448912899,https://pbs.twimg.com/media/DKB9EMHVoAAxaiW.png
+909842021006712832,11,0,1,Probability Density Function,2017-09-18T18:10:16,https://twitter.com/chrisalbon/status/909842021006712832,https://pbs.twimg.com/media/DKBofvYU8AADjBv.png
+908779134012112896,8,3,2,Softplus Function,2017-09-15T19:46:44,https://twitter.com/chrisalbon/status/908779134012112896,https://pbs.twimg.com/media/DJyhzkPUQAA74sT.png
+908742323793682432,16,2,6,Stemming Words,2017-09-15T17:20:28,https://twitter.com/chrisalbon/status/908742323793682432,https://pbs.twimg.com/media/DJyAU7oVYAAPNfY.png
+908415394498494464,19,1,6,Momentum,2017-09-14T19:41:22,https://twitter.com/chrisalbon/status/908415394498494464,https://pbs.twimg.com/media/DJtW_JuU8AA2oW4.png
+908388512856023040,9,0,1,Probability Mass Function,2017-09-14T17:54:33,https://twitter.com/chrisalbon/status/908388512856023040,https://pbs.twimg.com/media/DJs-iZ1VwAAuOHX.png
+908049847738966016,16,0,1,Principal Components,2017-09-13T19:28:49,https://twitter.com/chrisalbon/status/908049847738966016,https://pbs.twimg.com/media/DJoKhhFU8AAVapL.png
+908019959220989952,16,1,2,Residual Sum Of Squares,2017-09-13T17:30:03,https://twitter.com/chrisalbon/status/908019959220989952,https://pbs.twimg.com/media/DJnvVuXVoAAE0hf.png
+907693498782048256,11,1,1,BackProp,2017-09-12T19:52:48,https://twitter.com/chrisalbon/status/907693498782048256,https://pbs.twimg.com/media/DJjGbSPUIAAyLYr.png
+907659066905726976,8,1,3,Grid Search,2017-09-12T17:35:59,https://twitter.com/chrisalbon/status/907659066905726976,https://pbs.twimg.com/media/DJinHFNVAAEYcrx.png
+907325577052397568,33,2,4,K-Means Clustering,2017-09-11T19:30:49,https://twitter.com/chrisalbon/status/907325577052397568,https://pbs.twimg.com/media/DJd3zbnUIAEWFuz.png
+907294844304769025,13,2,2,Intercept Term,2017-09-11T17:28:42,https://twitter.com/chrisalbon/status/907294844304769025,https://pbs.twimg.com/media/DJdb2kBVYAAGw-d.png
+944305964944990209,18,1,5,Hyperplane,2017-12-22T20:37:41,https://twitter.com/chrisalbon/status/944305964944990209,https://pbs.twimg.com/media/DRrZRTnU8AAcI6x.png
+944271795787522048,73,8,13,Tensors,2017-12-22T18:21:54,https://twitter.com/chrisalbon/status/944271795787522048,https://pbs.twimg.com/media/DRq6MX5UEAASiRh.png
+943940901474254848,17,0,3,Pearsons Correlation,2017-12-21T20:27:03,https://twitter.com/chrisalbon/status/943940901474254848,https://pbs.twimg.com/media/DRmNPzEUMAA9gxf.png
+943915392564584448,26,0,3,Hamming Loss,2017-12-21T18:45:41,https://twitter.com/chrisalbon/status/943915392564584448,https://pbs.twimg.com/media/DRl2C_qVQAAk6hI.png
+943573334603702272,17,0,2,SVC Radial Basis Function Kernel,2017-12-20T20:06:28,https://twitter.com/chrisalbon/status/943573334603702272,https://pbs.twimg.com/media/DRg-8nNUMAAh7_g.png
+943552448479629312,32,0,2,Standardization,2017-12-20T18:43:28,https://twitter.com/chrisalbon/status/943552448479629312,https://pbs.twimg.com/media/DRgr83KUEAAhlzr.png
+943212992102936576,47,0,12,Adjusted R-Squared,2017-12-19T20:14:36,https://twitter.com/chrisalbon/status/943212992102936576,https://pbs.twimg.com/media/DRb3N4OVoAA7ioD.png
+943191690008866816,25,1,3,Weak Learners,2017-12-19T18:49:57,https://twitter.com/chrisalbon/status/943191690008866816,https://pbs.twimg.com/media/DRbj19KVwAEm9aN.png
+942852436984717312,10,0,0,Total Sum-Of-Squares,2017-12-18T20:21:52,https://twitter.com/chrisalbon/status/942852436984717312,https://pbs.twimg.com/media/DRWvS1RU8AAr7vn.png
+942825405869785088,22,1,3,Sigmoid Activation Function,2017-12-18T18:34:28,https://twitter.com/chrisalbon/status/942825405869785088,https://pbs.twimg.com/media/DRWWtcAUEAASh_B.png
+941761370684456960,18,0,6,Boosting,2017-12-15T20:06:22,https://twitter.com/chrisalbon/status/941761370684456960,https://pbs.twimg.com/media/DRHO-bTUQAATAGw.png
+941740969853992960,16,0,1,Interaction Term,2017-12-15T18:45:18,https://twitter.com/chrisalbon/status/941740969853992960,https://pbs.twimg.com/media/DRG8a81UIAAAhpg.png
+941403337672376320,17,3,2,Hinge Loss,2017-12-14T20:23:40,https://twitter.com/chrisalbon/status/941403337672376320,https://pbs.twimg.com/media/DRCJWKwVoAAVfl-.png
+941376616827035648,58,5,10,One-Hot Encoding,2017-12-14T18:37:30,https://twitter.com/chrisalbon/status/941376616827035648,https://pbs.twimg.com/media/DRBxC0DUEAATEql.png
+941040162967924736,7,0,0,Issues With Platt Scaling,2017-12-13T20:20:33,https://twitter.com/chrisalbon/status/941040162967924736,https://pbs.twimg.com/media/DQ8_ClEU8AAlCsA.png
+941005267193311232,17,1,2,Interpolation,2017-12-13T18:01:53,https://twitter.com/chrisalbon/status/941005267193311232,https://pbs.twimg.com/media/DQ8fTaKUMAA-Eii.png
+940674930315640832,16,1,0,Determinants,2017-12-12T20:09:14,https://twitter.com/chrisalbon/status/940674930315640832,https://pbs.twimg.com/media/DQ3y3RxVAAABuzt.png
+940653521459748864,15,0,2,Standard Deviation,2017-12-12T18:44:10,https://twitter.com/chrisalbon/status/940653521459748864,https://pbs.twimg.com/media/DQ3fZDOUMAAE6X3.png
+940323068869730304,10,2,0,Manhattan Distance,2017-12-11T20:51:04,https://twitter.com/chrisalbon/status/940323068869730304,https://pbs.twimg.com/media/DQyy2JVU8AAwtJe.png
+940282988696178689,7,0,1,Notation 4,2017-12-11T18:11:48,https://twitter.com/chrisalbon/status/940282988696178689,https://pbs.twimg.com/media/DQyOZNqUEAIVna-.png
+939234526106025984,5,0,0,Gradient Clipping,2017-12-08T20:45:35,https://twitter.com/chrisalbon/status/939234526106025984,https://pbs.twimg.com/media/DQjU0tgVQAUECdb.png
+939205968201596928,9,1,2,Matrix Inverse,2017-12-08T18:52:07,https://twitter.com/chrisalbon/status/939205968201596928,https://pbs.twimg.com/media/DQi62b_UMAE5Uht.png
+938870500268183554,41,2,12,Random Forest,2017-12-07T20:39:05,https://twitter.com/chrisalbon/status/938870500268183554,https://pbs.twimg.com/media/DQeJvj0VAAAij3F.png
+938840074728247296,20,1,3,Sensitivity,2017-12-07T18:38:11,https://twitter.com/chrisalbon/status/938840074728247296,https://pbs.twimg.com/media/DQduEnJUQAEacv_.png
+938508942946078720,9,1,1,Cost And Loss Functions,2017-12-06T20:42:23,https://twitter.com/chrisalbon/status/938508942946078720,https://pbs.twimg.com/media/DQZA6KkVoAAWpQu.png
+938478816309084160,15,0,0,Meanshift Clustering By Analogy,2017-12-06T18:42:40,https://twitter.com/chrisalbon/status/938478816309084160,https://pbs.twimg.com/media/DQYlgj9UEAAEbN4.png
+938137551478644736,13,0,5,TanH Activation Function,2017-12-05T20:06:36,https://twitter.com/chrisalbon/status/938137551478644736,https://pbs.twimg.com/media/DQTvIW8X4AEdWMf.png
+938110053139202048,6,0,1,Model Identifiability,2017-12-05T18:17:20,https://twitter.com/chrisalbon/status/938110053139202048,https://pbs.twimg.com/media/DQTWHxmUMAAVyKV.png
+937782505297526784,11,0,4,Fowlkes-Mallows,2017-12-04T20:35:47,https://twitter.com/chrisalbon/status/937782505297526784,https://pbs.twimg.com/media/DQOsN99VoAAJQAO.png
+937754458888400897,23,0,6,Anscombes Quartet,2017-12-04T18:44:20,https://twitter.com/chrisalbon/status/937754458888400897,https://pbs.twimg.com/media/DQOStdmUEAAU_l_.png
+906235648482263046,6,0,1,Therefore And Because Notation,2017-09-08T19:19:50,https://twitter.com/chrisalbon/status/906235648482263046,https://pbs.twimg.com/media/DJOYhOJUwAEoSvA.png
+906212017710653440,18,1,4,Extrema,2017-09-08T17:45:56,https://twitter.com/chrisalbon/status/906212017710653440,https://pbs.twimg.com/media/DJODBrrUQAAamkk.png
+905884563074715650,7,0,2,Combination,2017-09-07T20:04:45,https://twitter.com/chrisalbon/status/905884563074715650,https://pbs.twimg.com/media/DJJZNYeVoAA3ILf.png
+905854766240096256,14,2,3,Confusion Matrix,2017-09-07T18:06:20,https://twitter.com/chrisalbon/status/905854766240096256,https://pbs.twimg.com/media/DJI-G9hUEAE5Dyh.png
+905521013223448576,24,2,2,Strategies For Highly Imbalanced Classes #machinelearningflashcards,2017-09-06T20:00:07,https://twitter.com/chrisalbon/status/905521013223448576,https://pbs.twimg.com/media/DJEOj_XVoAAaKLP.png
+905485922505973760,7,1,4,Downsampling #machinelearningflashcards,2017-09-06T17:40:41,https://twitter.com/chrisalbon/status/905485922505973760,https://pbs.twimg.com/media/DJDupbsV4AETnmq.png
+905147411898654721,3,0,4,Upsampling #machinelearningflashcards,2017-09-05T19:15:34,https://twitter.com/chrisalbon/status/905147411898654721,https://pbs.twimg.com/media/DI-6xgeVAAAxXEn.png
+905129614699241472,10,0,5,Encoding Ordinal Categorical Features #machinelearningflashcards,2017-09-05T18:04:51,https://twitter.com/chrisalbon/status/905129614699241472,https://pbs.twimg.com/media/DI-qllIUQAEtGe4.png
+904783940413644802,9,0,3,Notation 3 #machinelearningflashcards,2017-09-04T19:11:16,https://twitter.com/chrisalbon/status/904783940413644802,https://pbs.twimg.com/media/DI5wMsZVYAIb5yp.png
+904754374445903873,14,3,6,Upsampling #machinelearningflashcards,2017-09-04T17:13:47,https://twitter.com/chrisalbon/status/904754374445903873,https://pbs.twimg.com/media/DI5VTuTUEAIg-H1.png
+903701874255253508,21,0,6,,2017-09-01T19:31:31,https://twitter.com/chrisalbon/status/903701874255253508,https://pbs.twimg.com/media/DIqYEKQXcAIrsil.png
+903673313527963648,10,0,4,,2017-09-01T17:38:02,https://twitter.com/chrisalbon/status/903673313527963648,https://pbs.twimg.com/media/DIp-FtYVoAAb4pX.png
+903336023215677440,8,0,2,,2017-08-31T19:17:45,https://twitter.com/chrisalbon/status/903336023215677440,https://pbs.twimg.com/media/DIlLUxwVYAAjvkI.png
+903309161403826176,38,0,12,,2017-08-31T17:31:01,https://twitter.com/chrisalbon/status/903309161403826176,https://pbs.twimg.com/media/DIky5QWUIAAOuKy.png
+902977402736742400,21,0,1,,2017-08-30T19:32:43,https://twitter.com/chrisalbon/status/902977402736742400,https://pbs.twimg.com/media/DIgFKVtV4AQ3OnQ.png
+902952416277962753,10,0,1,,2017-08-30T17:53:26,https://twitter.com/chrisalbon/status/902952416277962753,https://pbs.twimg.com/media/DIfub8lUQAAtVUh.png
+902952380160892928,1,0,0,,2017-08-30T17:53:18,https://twitter.com/chrisalbon/status/902952380160892928,
+902610985155911682,16,0,4,,2017-08-29T19:16:43,https://twitter.com/chrisalbon/status/902610985155911682,https://pbs.twimg.com/media/DIa36C6V4AAYrGp.png
+902581221695275008,8,0,3,,2017-08-29T17:18:27,https://twitter.com/chrisalbon/status/902581221695275008,https://pbs.twimg.com/media/DIac1lDUwAEmWhr.png
+902258221397663745,36,2,9,,2017-08-28T19:54:57,https://twitter.com/chrisalbon/status/902258221397663745,https://pbs.twimg.com/media/DIV3EffVoAA2QiA.png
+902229971644456962,27,2,7,,2017-08-28T18:02:42,https://twitter.com/chrisalbon/status/902229971644456962,https://pbs.twimg.com/media/DIVdYJjUEAIOXm_.png
+901323838675337216,0,1,0,,2017-08-26T06:02:03,https://twitter.com/chrisalbon/status/901323838675337216,
+901162142233051136,12,1,2,,2017-08-25T19:19:32,https://twitter.com/chrisalbon/status/901162142233051136,https://pbs.twimg.com/media/DIGSMTEU0AEqEms.png
+901137512160088064,17,0,5,,2017-08-25T17:41:39,https://twitter.com/chrisalbon/status/901137512160088064,https://pbs.twimg.com/media/DIF7yqIVwAIwRd9.png
+900807403649630208,14,0,7,,2017-08-24T19:49:55,https://twitter.com/chrisalbon/status/900807403649630208,https://pbs.twimg.com/media/DIBPjyJV0AApghi.png
+900769419445522432,29,2,5,,2017-08-24T17:18:59,https://twitter.com/chrisalbon/status/900769419445522432,https://pbs.twimg.com/media/DIAtAyvUMAAfLEG.png
+900440504155766784,12,0,3,,2017-08-23T19:32:00,https://twitter.com/chrisalbon/status/900440504155766784,https://pbs.twimg.com/media/DH8B3byUAAArneD.png
+900412816787595264,24,1,9,,2017-08-23T17:41:59,https://twitter.com/chrisalbon/status/900412816787595264,https://pbs.twimg.com/media/DH7or0PUQAAUk5c.png
+900078742373933059,18,0,7,,2017-08-22T19:34:29,https://twitter.com/chrisalbon/status/900078742373933059,https://pbs.twimg.com/media/DH242JVVwAAw-EC.png
+900048249913958400,19,0,7,,2017-08-22T17:33:19,https://twitter.com/chrisalbon/status/900048249913958400,https://pbs.twimg.com/media/DH2dHM8V0AEpVPR.png
+899981031150727168,1815,74,700,,2017-08-22T13:06:13,https://twitter.com/chrisalbon/status/899981031150727168,https://pbs.twimg.com/media/DH1f-RfUwAAr278.jpg
+899726115362660352,17,0,2,,2017-08-21T20:13:16,https://twitter.com/chrisalbon/status/899726115362660352,https://pbs.twimg.com/media/DHx4IhmVYAAPynP.png
+951909924677730304,22,1,4,Perceptron Learning,2018-01-12T20:13:06,https://twitter.com/chrisalbon/status/951909924677730304,https://pbs.twimg.com/media/DTXdCB3U8AA4jYo.png
+951882740269334533,11,0,2,Exploding Gradient Problem,2018-01-12T18:25:05,https://twitter.com/chrisalbon/status/951882740269334533,https://pbs.twimg.com/media/DTXETrjUMAAnwF_.png
+951667360930324481,1,1,0,,2018-01-12T04:09:14,https://twitter.com/chrisalbon/status/951667360930324481,https://pbs.twimg.com/media/DTTqg5cV4AALKum.jpg
+951545623077011456,32,2,5,Kernel Trick,2018-01-11T20:05:30,https://twitter.com/chrisalbon/status/951545623077011456,https://pbs.twimg.com/media/DTSRs4jVAAEtwTj.png
+951526166598307840,15,0,2,Data-Generating Distribution,2018-01-11T18:48:11,https://twitter.com/chrisalbon/status/951526166598307840,https://pbs.twimg.com/media/DTSAAWZV4AAmpln.png
+951186866769879040,39,7,9,F-Statistic,2018-01-10T20:19:55,https://twitter.com/chrisalbon/status/951186866769879040,https://pbs.twimg.com/media/DTNLafYU0AAubgj.png
+951164227322081281,12,1,3,Concave And Convex Functions,2018-01-10T18:49:58,https://twitter.com/chrisalbon/status/951164227322081281,https://pbs.twimg.com/media/DTM20tAW0AEAELZ.png
+950821461064855554,19,0,3,Weight Decay,2018-01-09T20:07:56,https://twitter.com/chrisalbon/status/950821461064855554,https://pbs.twimg.com/media/DTH_FF1W4AAsIZA.png
+950797509382701057,65,2,6,Normalized Initialization Of Neural Network Parameters,2018-01-09T18:32:45,https://twitter.com/chrisalbon/status/950797509382701057,https://pbs.twimg.com/media/DTHpS3uVQAAcE-I.png
+950467731807117312,11,0,0,Power Rule,2018-01-08T20:42:20,https://twitter.com/chrisalbon/status/950467731807117312,https://pbs.twimg.com/media/DTC9XVIVwAA-0Td.png
+950440352711757824,10,1,2,Matrix Multiplication,2018-01-08T18:53:33,https://twitter.com/chrisalbon/status/950440352711757824,https://pbs.twimg.com/media/DTCkdnlU8AEhsll.png
+949377831640776704,33,1,4,ELUs,2018-01-05T20:31:28,https://twitter.com/chrisalbon/status/949377831640776704,https://pbs.twimg.com/media/DSzeGy8U8AIER4_.png
+949353895788142592,10,0,2,Frobenius Norm,2018-01-05T18:56:21,https://twitter.com/chrisalbon/status/949353895788142592,https://pbs.twimg.com/media/DSzIVjXUMAA8c9Z.png
+949018514462945280,47,2,11,Normal Distribution,2018-01-04T20:43:40,https://twitter.com/chrisalbon/status/949018514462945280,https://pbs.twimg.com/media/DSuXTvtU0AA-1B9.png
+948977804141518848,20,1,4,Logistic Sigmoid Function,2018-01-04T18:01:54,https://twitter.com/chrisalbon/status/948977804141518848,https://pbs.twimg.com/media/DStySJMVQAAGDwP.png
+948649101373001728,53,4,21,Joins,2018-01-03T20:15:45,https://twitter.com/chrisalbon/status/948649101373001728,https://pbs.twimg.com/media/DSpHVFvVoAAcuwd.png
+948620591157755904,17,3,3,Bag Of Words,2018-01-03T18:22:28,https://twitter.com/chrisalbon/status/948620591157755904,https://pbs.twimg.com/media/DSotZn6U8AA9BSh.png
+948412638148444160,3,0,0,,2018-01-03T04:36:08,https://twitter.com/chrisalbon/status/948412638148444160,
+948292710745567232,10,2,1,Regression,2018-01-02T20:39:35,https://twitter.com/chrisalbon/status/948292710745567232,https://pbs.twimg.com/media/DSkDMcPUMAAgsMQ.png
+948255330399436800,58,1,9,Bias-Variance Tradeoff,2018-01-02T18:11:03,https://twitter.com/chrisalbon/status/948255330399436800,https://pbs.twimg.com/media/DSjhMnVVoAAJbIi.png
+947919803108311040,5,0,0,Support Vectors,2018-01-01T19:57:47,https://twitter.com/chrisalbon/status/947919803108311040,https://pbs.twimg.com/media/DSewCYTVQAAeGkE.png
+947891490386149376,16,3,1,Missing At Random,2018-01-01T18:05:16,https://twitter.com/chrisalbon/status/947891490386149376,https://pbs.twimg.com/media/DSeWSXTUEAA5R1I.png
+946844357444870144,17,0,1,Bag Of Words,2017-12-29T20:44:20,https://twitter.com/chrisalbon/status/946844357444870144,https://pbs.twimg.com/media/DSPd7LHVwAAoOrK.png
+946810280289251330,22,2,3,Downsampling,2017-12-29T18:28:56,https://twitter.com/chrisalbon/status/946810280289251330,https://pbs.twimg.com/media/DSO-7p5VoAA4ebD.png
+946485092267864064,16,1,1,RMSprop,2017-12-28T20:56:45,https://twitter.com/chrisalbon/status/946485092267864064,https://pbs.twimg.com/media/DSKXLM7UQAEBFLp.png
+946451174315536384,7,0,2,L1 Norm,2017-12-28T18:41:58,https://twitter.com/chrisalbon/status/946451174315536384,https://pbs.twimg.com/media/DSJ4U61UMAAh8Db.png
+946111715631960064,40,2,5,Model Complexity,2017-12-27T20:13:05,https://twitter.com/chrisalbon/status/946111715631960064,https://pbs.twimg.com/media/DSFDl3SVAAAm_zT.png
+946078250698018816,19,1,0,Bayes Error,2017-12-27T18:00:06,https://twitter.com/chrisalbon/status/946078250698018816,https://pbs.twimg.com/media/DSElJ54VQAEtuvF.png
+945751084974333952,47,3,13,Occams Razor,2017-12-26T20:20:04,https://twitter.com/chrisalbon/status/945751084974333952,https://pbs.twimg.com/media/DR_7mSwV4AAw6ZW.png
+945717937234591744,8,0,1,K-Fold Cross-Validation,2017-12-26T18:08:21,https://twitter.com/chrisalbon/status/945717937234591744,https://pbs.twimg.com/media/DR_dc5RVAAAMkcK.png
+945383421299191808,18,1,1,Extrema,2017-12-25T19:59:06,https://twitter.com/chrisalbon/status/945383421299191808,https://pbs.twimg.com/media/DR6tNhWVQAAB2gr.png
+945363817839566849,34,1,7,Softmax Activation Function,2017-12-25T18:41:12,https://twitter.com/chrisalbon/status/945363817839566849,https://pbs.twimg.com/media/DR6bYdaUIAAo3_H.png
